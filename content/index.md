@@ -1,9 +1,7 @@
 ---
-title: Welcome to Quartz
+title: This is a test site
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 
-So I can write [[something]] here
+So I can write [[something]] here, and [[With many things]]
