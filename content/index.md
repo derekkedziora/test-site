@@ -1,7 +1,7 @@
 ---
-title: This is a test site
+title: Testing…
 ---
 
+I’m playing with Quartz and Obsidian to build this. 
 
-
-So I can write [[something]] here, and [[With many things]]
+My info about [[content/IJburg/index|IJburg]].
