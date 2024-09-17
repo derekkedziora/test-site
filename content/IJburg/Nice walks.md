@@ -1,4 +1,4 @@
 
 Here are some of the routes I enjoy walking around
 
-![[/assets/Screenshot 2024-09-17 at 17.23.05.png]]
+![[../assets/Screenshot 2024-09-17 at 17.23.05.png]]
